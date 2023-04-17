@@ -48,7 +48,7 @@ The Odin Project depends on open-source contributions to improve, grow, and thri
 -   [Grace Schwartz](https://github.com/CatQueenCodes)
 -   [Tatiana Walton](https://github.com/twalton83)
 -   [Valera Kushnir](https://github.com/kashura)
-
+-   [Brandon Zeng] (https://github.com/bzeng1234)
 ---
 
 Created by [Erik Trautman](http://www.github.com/eriktrautman)
